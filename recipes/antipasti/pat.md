@@ -2,7 +2,7 @@
 
 
 
-# Pat
+# Paté
   
 ### Antipasti
 ## ingredients
