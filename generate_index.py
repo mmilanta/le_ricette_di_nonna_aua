@@ -14,7 +14,8 @@ def main():
         f.write("## " + fold_name.title() + "\n")
         file_names = [k for k in listdir(directory+"/"+fold_name) if isfile(join(directory+"/"+fold_name, k))]
         for filename in file_names:
-            f.write("["+filename.replace('-', ' ').title()+"](https://mmilanta.github.io/le_ricette_di_nonna_aua/recipes/"+filename+")\n")
+            filename = filename[:-3]
+            f.write("["+filename.replace('-', ' ').title()+"](https://mmilanta.github.io/le_ricette_di_nonna_aua/recipes/"+fold_name+"/"+filename+")\n")
     f.close()
     print(fold_names)
 
