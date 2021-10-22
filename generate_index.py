@@ -8,7 +8,7 @@ def main():
     #here we do something
     directory = "recipes"
     fold_names = [x[1] for x in os.walk(directory)][0]
-    f = open("index.md", "w")
+    f = open("README.md", "w")
     f.write("# Le ricette di Nonna Aua\n")
     for fold_name in fold_names:
         f.write("## " + fold_name.title() + "\n")
