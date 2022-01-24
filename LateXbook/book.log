@@ -1,0 +1,542 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.1)  9 NOV 2021 21:39
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/book.tex
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/book.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count188
+\Gm@cntv=\count189
+\c@Gm@tempcnt=\count190
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen149
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen150
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks21
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks22
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks23
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks30
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `amsthm' support loaded on input line 3026.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count269
+\rotFPtop=\skip55
+\rotFPbot=\skip56
+\rot@float@box=\box49
+\rot@mess@toks=\toks31
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen158
+\pgfutil@tempdimb=\dimen159
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box50
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks35
+))
+\pgf@x=\dimen160
+\pgf@y=\dimen161
+\pgf@xa=\dimen162
+\pgf@ya=\dimen163
+\pgf@xb=\dimen164
+\pgf@yb=\dimen165
+\pgf@xc=\dimen166
+\pgf@yc=\dimen167
+\pgf@xd=\dimen168
+\pgf@yd=\dimen169
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count270
+\c@pgf@countb=\count271
+\c@pgf@countc=\count272
+\c@pgf@countd=\count273
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
+\pgf@sys@id@count=\count274
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count275
+\pgfsyssoftpath@bigbuffer@items=\count276
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen170
+\pgfmath@count=\count277
+\pgfmath@box=\box51
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count278
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen171
+\pgf@picmaxx=\dimen172
+\pgf@picminy=\dimen173
+\pgf@picmaxy=\dimen174
+\pgf@pathminx=\dimen175
+\pgf@pathmaxx=\dimen176
+\pgf@pathminy=\dimen177
+\pgf@pathmaxy=\dimen178
+\pgf@xx=\dimen179
+\pgf@xy=\dimen180
+\pgf@yx=\dimen181
+\pgf@yy=\dimen182
+\pgf@zx=\dimen183
+\pgf@zy=\dimen184
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen185
+\pgf@path@lasty=\dimen186
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen187
+\pgf@shorten@start@additional=\dimen188
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box52
+\pgf@hbox=\box53
+\pgf@layerbox@main=\box54
+\pgf@picture@serial@count=\count279
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen189
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen190
+\pgf@pt@y=\dimen191
+\pgf@pt@temp=\dimen192
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen193
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen194
+\pgf@sys@shading@range@num=\count280
+\pgf@shadingcount=\count281
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box55
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box56
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen195
+\pgf@nodesepend=\dimen196
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen197
+\pgffor@skip=\dimen198
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count282
+\pgfplotmarksize=\dimen199
+)
+\tikz@lastx=\dimen256
+\tikz@lasty=\dimen257
+\tikz@lastxsaved=\dimen258
+\tikz@lastysaved=\dimen259
+\tikz@lastmovetox=\dimen260
+\tikz@lastmovetoy=\dimen261
+\tikzleveldistance=\dimen262
+\tikzsiblingdistance=\dimen263
+\tikz@figbox=\box57
+\tikz@figbox@bg=\box58
+\tikz@tempbox=\box59
+\tikz@tempbox@bg=\box60
+\tikztreelevel=\count283
+\tikznumberofchildren=\count284
+\tikznumberofcurrentchild=\count285
+\tikz@fig@count=\count286
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count287
+\pgfmatrixcurrentcolumn=\count288
+\pgf@matrix@numberofcolumns=\count289
+)
+\tikz@expandcount=\count290
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count291
+\U@D=\dimen264
+\l@babelnohyphens=\language87
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count292
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
+\it@lettering=\count293
+\it@doublequoteactive=\count294
+\it@ISOcompliance=\count295
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen265
+\captionmargin@=\dimen266
+\captionwidth=\dimen267
+\caption@tempdima=\dimen268
+\caption@indent=\dimen269
+\caption@parindent=\dimen270
+\caption@hangindent=\dimen271
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count297
+\c@continuedfloat=\count298
+Package caption Info: rotating package is loaded.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box61
+) (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/book.aux)
+\openout1 = `book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+ (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count300
+\scratchdimen=\dimen272
+\scratchbox=\box62
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen273
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks45
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(65.04256pt, 467.42276pt, 65.04256pt)
+* v-part:(T,H,B)=(65.04256pt, 714.96173pt, 65.04256pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=467.42276pt
+* \textheight=714.96173pt
+* \oddsidemargin=-7.22743pt
+* \evensidemargin=-7.22743pt
+* \topmargin=-39.10123pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \it@ocap on input line 18.
+LaTeX Info: Redefining \it@ccap on input line 18.
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 18.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/book.toc [3] [4] [5] [6])
+\tf@toc=\write4
+\openout4 = `book.toc'.
+
+ (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/index.tex (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/paste base/pasta-fresca.tex) [7] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/paste base/pasta-frolla-con-i-tuorli.tex) [8] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/paste base/pasta-frolla-leggera.tex) [9] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/paste base/pasta-lievitata-brioche.tex) [10] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/paste base/pasta-pazza.tex) [11] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/paste base/pasta-per-la-pizza.tex) [12] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/paste base/pastella-per-friggere.tex) [13] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/paste base/polenta.tex) [14]
+Capitolo 1.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/crepes-anna.tex) [15
+
+] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/crescentine.tex) [16] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/farinata.tex) [17] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/focaccia-genovese-sorelle-simili.tex) [18] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/focaccia-pugliese-di-adriano.tex) [19] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/gnocco-fritto00a0-federica.tex) [20] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/naan.tex) [21] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/panini-al-latte.tex) [22] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/panini-con-l_uvetta.tex) [23] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/tortillas.tex) [24] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/treccia-alle-olive.tex) [25] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/pane & co/treccia-di-pasqua.tex) [26]
+Capitolo 2.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/salse/besciamella.tex) [27
+
+] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/salse/guacamole.tex) [28] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/salse/hummus.tex) [29] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/salse/maionese.tex) [30] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/salse/panna-acida.tex) [31] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/salse/salsa-.tex) [32] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/salse/salsa-al-tonno-clementina.tex) [33] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/salse/salsa-all_uovo-clementina.tex) [34] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/salse/salsa-verde.tex) [35] [36
+
+]
+Capitolo 3.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/pesto-alla-genovese.tex) [37] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/pesto-alla-trapanese.tex) [38] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/sugo-agli-asparagi.tex) [39] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/sugo-ai-fiori-di-zucca-cordano.tex) [40] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/sugo-ai-funghi.tex) [41] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/sugo-al-pomodoro.tex) [42] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/sugo-di-carciofi.tex) [43] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/sugo-di-maggiorana-e-pinoli.tex) [44] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/sugo-di-noci.tex) [45] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/sugo-olive-e-funghi-davide.tex) [46] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/sughi/sugo-rucola-e-alici-portofino.tex) [47] [48
+
+]
+Capitolo 4.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/antipasti/baccala-mantecato.tex) [49] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/antipasti/crostini-al-lardo-dello-squero.tex) [50] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/antipasti/pat.tex) [51] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/antipasti/salatini-all_acciuga.tex) [52]
+Capitolo 5.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/calamarata.tex) [53
+
+] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/canederli.tex) [54] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/cous-cous-alla-marocchina.tex) [55] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/focaccia-al-formaggio.tex) [56] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/gnocchi-alla-romana.tex) [57] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/gnocchi.tex) [58] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/mozzarella-in-carrozza.tex) [59] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/orecchiette-con-i-broccoli.tex) [60] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/paella.tex) [61] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/pasta-ai-gamberi.tex) [62] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/pasta-e-ceci.tex) [63] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/pasta-scarola-olive-e-capperi.tex) [64] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/pesce-finto.tex) [65] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/pizzoccheri-della-valtellina.tex) [66] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/quiche.tex) [67] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/ribollita-clementina.tex) [68] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/riso-bollito-all_orientale.tex) [69] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/riso-per-sushi.tex) [70] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/riso-pilaf-agli-asparagi.tex) [71] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/riso-pilaf.tex) [72] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/risotto.tex) [73] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/rotolo-al-formaggio.tex) [74] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/souffl.tex) [75] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/spaghetti-al-branzino.tex) [76] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/spaghetti-al-filetto-nonna-elo.tex) [77] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/spaghetti-alla-carbonara.tex) [78] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/taglierini-al-nero-di-seppia.tex) [79] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/toast-alla-francese.tex) [80] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/torta-pasqualina-veloce.tex) [81] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/torta-salata-ai-porri.tex) [82] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/torta-salata-carla.tex) [83] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/tortellini-veri-bolognesi.tex) [84] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/tortelloni-con-patate-e-taleggio.tex) [85] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/tortino-di-zucchini.tex) [86] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/uova-alla-svedese.tex) [87] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/vellutata-di-pomodoro.tex) [88] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/torte salate/vellutata-di-zucca.tex) [89] [90
+
+]
+Capitolo 6.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di pesce/orate-al-forno-con-porri-ed-olive.tex) [91] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di pesce/orate-alla-mediterranea.tex) [92] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di pesce/polpo-bollito.tex) [93] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di pesce/tartare-di-tonno-e-avocado.tex) [94]
+Capitolo 7.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/arrosto-agli-agrumi.tex [95
+
+]) [96] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/arrosto-al-forno.tex) [97] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/arrosto-al-latte.tex) [98] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/arrosto-al-limone.tex) [99] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/arrosto-alla-ricotta.tex) [100] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/bollito.tex) [101] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/brasato-clementina.tex) [102] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/filetto-in-crosta.tex) [103] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/gulash.tex) [104] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/involtini-di-pollo-agli-aromi.tex) [105] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/petto-di-tacchino-.tex) [106] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/pollo-al-curry-clementina.tex) [107] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/pollo-con-capperi-e-limone.tex) [108] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/pollo-tonnato-in-gelatina.tex) [109] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/polpette-e-polpettone.tex [110]) [111] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/polpettone-bianco.tex) [112] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/roast-beef.tex) [113] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/scaloppine.tex) [114] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/spezzatino-con-carciofi-e-patate.tex) [115] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/straccetti-elena.tex) [116] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/secondi di carne/vitello-tonnato.tex) [117] [118
+
+]
+Capitolo 8.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/verdure/cavolfiore-alla-buonconvento.tex) [119] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/verdure/crocchette-di-broccolo-al-lardo.tex) [120] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/verdure/crocchette-di-patate.tex) [121] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/verdure/finocchi-gratinati.tex) [122] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/verdure/patate-al-forno.tex) [123] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/verdure/pommes-soufflé-alla-parigina.tex) [124] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/verdure/pomodori-gratinati.tex) [125] [126
+
+]
+Capitolo 9.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/baci-di-dama.tex) [127] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/bavarese-alla-fragola-clementina.tex) [128] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/bigné.tex) [129] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/biscotti-al-vino.tex) [130] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/biscotti-leggeri-sorelle-simili.tex) [131] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/briochine-allo-yogurt.tex) [132] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/briochine-sorelle-simili.tex) [133] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/buchteln.tex) [134] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/budino-della-zia.tex) [135] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/budino-di-cioccolata.tex) [136] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/cantucci.tex) [137] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/cavallucci.tex) [138] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/charlotte-di-mele-e-pane.tex) [139] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/cheesecake.tex) [140] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/ciaccia-toscana.tex) [141] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/ciambella-contadina.tex) [142] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/ciambellone-alla-crema.tex) [143] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/clafoutis.tex) [144] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/creme-caramel.tex) [145] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/croccante-di-mandorle.tex) [146] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/crostata-morbida.tex) [147] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/crumble-di-mele-giovanna.tex) [148] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/focaccia-alla-portoghese.tex) [149] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/frittole-di-polenta.tex) [150] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/galani.tex) [151] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/gateau-di-renette.tex) [152] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/gialletti.tex) [153] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/krapfen-2.tex) [154] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/krapfen.tex) [155] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/meringhe.tex) [156] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/mille-foglie.tex) [157] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/monte-bianco.tex) [158] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/mousse-au-chocolat.tex) [159] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/muffin-al-cioccolato.tex) [160] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/pan-di-spagna.tex) [161] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/panna-cotta.tex) [162] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/pasticcini-alle-mandorle-meyer.tex) [163] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/pudding-di-savoiardi.tex) [164] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/rose-del-deserto.tex) [165] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/smeiassa-.tex) [166] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/smerdetta.tex) [167] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/stracciatelle-unne.tex) [168] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/strudel.tex) [169] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/tarte-tatin-1.tex) [170] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/tarte-tatin-2.tex) [171] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/tiramisu.tex) [172] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-anna.tex) [173] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-delle-rose.tex) [174] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-di-albicocche.tex) [175] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-di-arance-e-ricotta-federico.tex) [176] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-di-carote.tex) [177] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-di-linz.tex) [178] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-di-mele-anabela.tex) [179] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-di-mele-maloli.tex) [180] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-di-pere-e-panna.tex) [181] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-di-semolino.tex) [182] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-di-taglierini-alla-modenese.tex) [183] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-duca-di-pistoia.tex) [184] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-gelato-alle-castagne.tex) [185] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-gelato-di-panna-con-uova.tex) [186] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-panarellina-anna.tex) [187] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-ricotta-e-pere.tex) [188] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-rovesciata-di-prugne.tex) [189] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-sabbiosa-nonna-maria.tex) [190] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-sbriciolata-di-ricotta-e-cioccolato.tex) [191] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-sole.tex) [192] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-trinidad.tex) [193] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/torta-vegana-di-arance.tex) [194] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/treccia-lievitata.tex) [195] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/dolci/waffle.tex) [196]
+Capitolo 10.
+(/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/caramello.tex) [197
+
+] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/coulis-frutta.tex) [198] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/crema-catalana.tex) [199] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/crema-pasticcera.tex) [200] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/marmellata-di-prugne-tipo-modena.tex) [201] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/marmellata-di-prugne.tex) [202] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/salsa-al-cioccolato.tex) [203] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/salsa-al-mascarpone.tex) [204] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/scorze-di-arance-candite.tex) [205] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/vov.tex) [206] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/../LateXrecipes/creme dolci/zabaione.tex) [207] [208
+
+]
+Capitolo 11.
+) [209] (/Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/book.aux) ) 
+Here is how much of TeX's memory you used:
+ 17795 strings out of 478994
+ 396075 string characters out of 5858184
+ 640173 words of memory out of 5000000
+ 34408 multiletter control sequences out of 15000+600000
+ 412695 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 87i,6n,89p,577b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on /Users/marcomilanta/Documents/Ricette/le_ricette_di_nonna_aua/LateXbook/book.pdf (209 pages, 282647 bytes).
+PDF statistics:
+ 705 PDF objects out of 1000 (max. 8388607)
+ 483 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

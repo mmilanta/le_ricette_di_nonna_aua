@@ -1,0 +1,668 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{Pasta Fresca}{7}{}%
+\contentsline {subsection}{Ingredienti}{7}{}%
+\contentsline {subsection}{Procedimento}{7}{}%
+\contentsline {subsection}{Note}{7}{}%
+\contentsline {section}{Pasta Frolla Con I Tuorli}{8}{}%
+\contentsline {subsection}{Ingredienti}{8}{}%
+\contentsline {subsection}{Procedimento}{8}{}%
+\contentsline {section}{Pasta Frolla Leggera}{9}{}%
+\contentsline {subsection}{Ingredienti}{9}{}%
+\contentsline {subsection}{Procedimento}{9}{}%
+\contentsline {subsection}{Note}{9}{}%
+\contentsline {section}{Pasta Lievitata Brioche}{10}{}%
+\contentsline {subsection}{Ingredienti}{10}{}%
+\contentsline {subsection}{Procedimento}{10}{}%
+\contentsline {section}{Pasta Pazza}{11}{}%
+\contentsline {subsection}{Ingredienti}{11}{}%
+\contentsline {subsection}{Procedimento}{11}{}%
+\contentsline {section}{Pasta Per La Pizza}{12}{}%
+\contentsline {subsection}{Ingredienti}{12}{}%
+\contentsline {subsection}{Procedimento}{12}{}%
+\contentsline {section}{Pastella Per Friggere}{13}{}%
+\contentsline {subsection}{Ingredienti}{13}{}%
+\contentsline {subsection}{Procedimento}{13}{}%
+\contentsline {subsection}{Note}{13}{}%
+\contentsline {section}{Polenta}{14}{}%
+\contentsline {subsection}{Ingredienti}{14}{}%
+\contentsline {subsection}{Procedimento}{14}{}%
+\contentsline {chapter}{\numberline {1}Paste Base}{15}{}%
+\contentsline {section}{Crepes Anna}{15}{}%
+\contentsline {subsection}{Ingredienti}{15}{}%
+\contentsline {subsection}{Procedimento}{15}{}%
+\contentsline {subsection}{Note}{15}{}%
+\contentsline {section}{Crescentine}{16}{}%
+\contentsline {subsection}{Ingredienti}{16}{}%
+\contentsline {subsection}{Procedimento}{16}{}%
+\contentsline {section}{Farinata}{17}{}%
+\contentsline {subsection}{Ingredienti}{17}{}%
+\contentsline {subsection}{Procedimento}{17}{}%
+\contentsline {section}{Focaccia Genovese Sorelle Simili}{18}{}%
+\contentsline {subsection}{Ingredienti}{18}{}%
+\contentsline {subsection}{Procedimento}{18}{}%
+\contentsline {section}{Focaccia Pugliese Di Adriano}{19}{}%
+\contentsline {subsection}{Ingredienti}{19}{}%
+\contentsline {subsection}{Procedimento}{19}{}%
+\contentsline {section}{Gnocco Fritto00A0 Federica}{20}{}%
+\contentsline {subsection}{Ingredienti}{20}{}%
+\contentsline {subsection}{Procedimento}{20}{}%
+\contentsline {subsection}{Note}{20}{}%
+\contentsline {section}{Naan}{21}{}%
+\contentsline {subsection}{Ingredienti}{21}{}%
+\contentsline {subsection}{Procedimento}{21}{}%
+\contentsline {subsection}{Note}{21}{}%
+\contentsline {section}{Panini Al Latte}{22}{}%
+\contentsline {subsection}{Ingredienti}{22}{}%
+\contentsline {subsection}{Procedimento}{22}{}%
+\contentsline {section}{Panini Con L'Uvetta}{23}{}%
+\contentsline {subsection}{Ingredienti}{23}{}%
+\contentsline {subsection}{Procedimento}{23}{}%
+\contentsline {section}{Tortillas}{24}{}%
+\contentsline {subsection}{Ingredienti}{24}{}%
+\contentsline {subsection}{Procedimento}{24}{}%
+\contentsline {section}{Treccia Alle Olive}{25}{}%
+\contentsline {subsection}{Ingredienti}{25}{}%
+\contentsline {subsection}{Procedimento}{25}{}%
+\contentsline {section}{Treccia Di Pasqua}{26}{}%
+\contentsline {subsection}{Ingredienti}{26}{}%
+\contentsline {subsection}{Procedimento}{26}{}%
+\contentsline {chapter}{\numberline {2}Pane \& Co}{27}{}%
+\contentsline {section}{Besciamella}{27}{}%
+\contentsline {subsection}{Ingredienti}{27}{}%
+\contentsline {subsection}{Procedimento}{27}{}%
+\contentsline {section}{Guacamole}{28}{}%
+\contentsline {subsection}{Ingredienti}{28}{}%
+\contentsline {subsection}{Procedimento}{28}{}%
+\contentsline {section}{Hummus}{29}{}%
+\contentsline {subsection}{Ingredienti}{29}{}%
+\contentsline {subsection}{Procedimento}{29}{}%
+\contentsline {section}{Maionese}{30}{}%
+\contentsline {subsection}{Ingredienti}{30}{}%
+\contentsline {subsection}{Procedimento}{30}{}%
+\contentsline {subsection}{Note}{30}{}%
+\contentsline {section}{Panna Acida}{31}{}%
+\contentsline {subsection}{Ingredienti}{31}{}%
+\contentsline {subsection}{Procedimento}{31}{}%
+\contentsline {subsection}{Note}{31}{}%
+\contentsline {section}{Salsa }{32}{}%
+\contentsline {subsection}{Ingredienti}{32}{}%
+\contentsline {subsection}{Procedimento}{32}{}%
+\contentsline {section}{Salsa Al Tonno Clementina}{33}{}%
+\contentsline {subsection}{Ingredienti}{33}{}%
+\contentsline {subsection}{Procedimento}{33}{}%
+\contentsline {subsection}{Note}{33}{}%
+\contentsline {section}{Salsa All'Uovo Clementina}{34}{}%
+\contentsline {subsection}{Ingredienti}{34}{}%
+\contentsline {subsection}{Procedimento}{34}{}%
+\contentsline {subsection}{Note}{34}{}%
+\contentsline {section}{Salsa Verde}{35}{}%
+\contentsline {subsection}{Ingredienti}{35}{}%
+\contentsline {subsection}{Procedimento}{35}{}%
+\contentsline {subsection}{Note}{35}{}%
+\contentsline {chapter}{\numberline {3}Salse}{37}{}%
+\contentsline {section}{Pesto Alla Genovese}{37}{}%
+\contentsline {subsection}{Ingredienti}{37}{}%
+\contentsline {subsection}{Procedimento}{37}{}%
+\contentsline {subsection}{Note}{37}{}%
+\contentsline {section}{Pesto Alla Trapanese}{38}{}%
+\contentsline {subsection}{Ingredienti}{38}{}%
+\contentsline {subsection}{Procedimento}{38}{}%
+\contentsline {subsection}{Note}{38}{}%
+\contentsline {section}{Sugo Agli Asparagi}{39}{}%
+\contentsline {subsection}{Ingredienti}{39}{}%
+\contentsline {subsection}{Procedimento}{39}{}%
+\contentsline {section}{Sugo Ai Fiori Di Zucca Cordano}{40}{}%
+\contentsline {subsection}{Ingredienti}{40}{}%
+\contentsline {subsection}{Procedimento}{40}{}%
+\contentsline {section}{Sugo Ai Funghi}{41}{}%
+\contentsline {subsection}{Ingredienti}{41}{}%
+\contentsline {subsection}{Procedimento}{41}{}%
+\contentsline {subsection}{Note}{41}{}%
+\contentsline {section}{Sugo Al Pomodoro}{42}{}%
+\contentsline {subsection}{Ingredienti}{42}{}%
+\contentsline {subsection}{Procedimento}{42}{}%
+\contentsline {section}{Sugo Di Carciofi}{43}{}%
+\contentsline {subsection}{Ingredienti}{43}{}%
+\contentsline {subsection}{Procedimento}{43}{}%
+\contentsline {section}{Sugo Di Maggiorana E Pinoli}{44}{}%
+\contentsline {subsection}{Ingredienti}{44}{}%
+\contentsline {subsection}{Procedimento}{44}{}%
+\contentsline {section}{Sugo Di Noci}{45}{}%
+\contentsline {subsection}{Ingredienti}{45}{}%
+\contentsline {subsection}{Procedimento}{45}{}%
+\contentsline {subsection}{Note}{45}{}%
+\contentsline {section}{Sugo Olive E Funghi Davide}{46}{}%
+\contentsline {subsection}{Ingredienti}{46}{}%
+\contentsline {subsection}{Procedimento}{46}{}%
+\contentsline {section}{Sugo Rucola E Alici Portofino}{47}{}%
+\contentsline {subsection}{Ingredienti}{47}{}%
+\contentsline {subsection}{Procedimento}{47}{}%
+\contentsline {chapter}{\numberline {4}Sughi}{49}{}%
+\contentsline {section}{Baccala Mantecato}{49}{}%
+\contentsline {subsection}{Ingredienti}{49}{}%
+\contentsline {subsection}{Procedimento}{49}{}%
+\contentsline {section}{Crostini Al Lardo Dello Squero}{50}{}%
+\contentsline {subsection}{Ingredienti}{50}{}%
+\contentsline {subsection}{Procedimento}{50}{}%
+\contentsline {section}{Paté}{51}{}%
+\contentsline {subsection}{Ingredienti}{51}{}%
+\contentsline {subsection}{Procedimento}{51}{}%
+\contentsline {section}{Salatini All'Acciuga}{52}{}%
+\contentsline {subsection}{Ingredienti}{52}{}%
+\contentsline {subsection}{Procedimento}{52}{}%
+\contentsline {chapter}{\numberline {5}Antipasti}{53}{}%
+\contentsline {section}{Calamarata}{53}{}%
+\contentsline {subsection}{Ingredienti}{53}{}%
+\contentsline {subsection}{Procedimento}{53}{}%
+\contentsline {section}{Canederli}{54}{}%
+\contentsline {subsection}{Ingredienti}{54}{}%
+\contentsline {subsection}{Procedimento}{54}{}%
+\contentsline {section}{Cous Cous Alla Marocchina}{55}{}%
+\contentsline {subsection}{Ingredienti}{55}{}%
+\contentsline {subsection}{Procedimento}{55}{}%
+\contentsline {section}{Focaccia Al Formaggio}{56}{}%
+\contentsline {subsection}{Ingredienti}{56}{}%
+\contentsline {subsection}{Procedimento}{56}{}%
+\contentsline {section}{Gnocchi Alla Romana}{57}{}%
+\contentsline {subsection}{Ingredienti}{57}{}%
+\contentsline {subsection}{Procedimento}{57}{}%
+\contentsline {subsection}{Note}{57}{}%
+\contentsline {section}{Gnocchi}{58}{}%
+\contentsline {subsection}{Ingredienti}{58}{}%
+\contentsline {subsection}{Procedimento}{58}{}%
+\contentsline {section}{Mozzarella In Carrozza}{59}{}%
+\contentsline {subsection}{Ingredienti}{59}{}%
+\contentsline {subsection}{Procedimento}{59}{}%
+\contentsline {section}{Orecchiette Con I Broccoli}{60}{}%
+\contentsline {subsection}{Ingredienti}{60}{}%
+\contentsline {subsection}{Procedimento}{60}{}%
+\contentsline {subsection}{Note}{60}{}%
+\contentsline {section}{Paella}{61}{}%
+\contentsline {subsection}{Ingredienti}{61}{}%
+\contentsline {subsection}{Procedimento}{61}{}%
+\contentsline {section}{Pasta Ai Gamberi}{62}{}%
+\contentsline {subsection}{Ingredienti}{62}{}%
+\contentsline {subsection}{Procedimento}{62}{}%
+\contentsline {section}{Pasta E Ceci}{63}{}%
+\contentsline {subsection}{Ingredienti}{63}{}%
+\contentsline {subsection}{Procedimento}{63}{}%
+\contentsline {subsection}{Note}{63}{}%
+\contentsline {section}{Pasta Scarola Olive E Capperi}{64}{}%
+\contentsline {subsection}{Ingredienti}{64}{}%
+\contentsline {subsection}{Procedimento}{64}{}%
+\contentsline {subsection}{Note}{64}{}%
+\contentsline {section}{Pesce Finto}{65}{}%
+\contentsline {subsection}{Ingredienti}{65}{}%
+\contentsline {subsection}{Procedimento}{65}{}%
+\contentsline {section}{Pizzoccheri Della Valtellina}{66}{}%
+\contentsline {subsection}{Ingredienti}{66}{}%
+\contentsline {subsection}{Procedimento}{66}{}%
+\contentsline {section}{Quiche}{67}{}%
+\contentsline {subsection}{Ingredienti}{67}{}%
+\contentsline {subsection}{Procedimento}{67}{}%
+\contentsline {section}{Ribollita Clementina}{68}{}%
+\contentsline {subsection}{Ingredienti}{68}{}%
+\contentsline {subsection}{Procedimento}{68}{}%
+\contentsline {section}{Riso Bollito All'Orientale}{69}{}%
+\contentsline {subsection}{Ingredienti}{69}{}%
+\contentsline {subsection}{Procedimento}{69}{}%
+\contentsline {section}{Riso Per Sushi}{70}{}%
+\contentsline {subsection}{Ingredienti}{70}{}%
+\contentsline {subsection}{Procedimento}{70}{}%
+\contentsline {section}{Riso Pilaf Agli Asparagi}{71}{}%
+\contentsline {subsection}{Ingredienti}{71}{}%
+\contentsline {subsection}{Procedimento}{71}{}%
+\contentsline {section}{Riso Pilaf}{72}{}%
+\contentsline {subsection}{Ingredienti}{72}{}%
+\contentsline {subsection}{Procedimento}{72}{}%
+\contentsline {subsection}{Note}{72}{}%
+\contentsline {section}{Risotto}{73}{}%
+\contentsline {subsection}{Ingredienti}{73}{}%
+\contentsline {subsection}{Procedimento}{73}{}%
+\contentsline {subsection}{Note}{73}{}%
+\contentsline {section}{Rotolo Al Formaggio}{74}{}%
+\contentsline {subsection}{Ingredienti}{74}{}%
+\contentsline {subsection}{Procedimento}{74}{}%
+\contentsline {section}{Souffl}{75}{}%
+\contentsline {subsection}{Ingredienti}{75}{}%
+\contentsline {subsection}{Procedimento}{75}{}%
+\contentsline {section}{Spaghetti Al Branzino}{76}{}%
+\contentsline {subsection}{Ingredienti}{76}{}%
+\contentsline {subsection}{Procedimento}{76}{}%
+\contentsline {subsection}{Note}{76}{}%
+\contentsline {section}{Spaghetti Al Filetto Nonna Elo}{77}{}%
+\contentsline {subsection}{Ingredienti}{77}{}%
+\contentsline {subsection}{Procedimento}{77}{}%
+\contentsline {subsection}{Note}{77}{}%
+\contentsline {section}{Spaghetti Alla Carbonara}{78}{}%
+\contentsline {subsection}{Ingredienti}{78}{}%
+\contentsline {subsection}{Procedimento}{78}{}%
+\contentsline {section}{Taglierini Al Nero Di Seppia}{79}{}%
+\contentsline {subsection}{Ingredienti}{79}{}%
+\contentsline {subsection}{Procedimento}{79}{}%
+\contentsline {section}{Toast Alla Francese}{80}{}%
+\contentsline {subsection}{Ingredienti}{80}{}%
+\contentsline {subsection}{Procedimento}{80}{}%
+\contentsline {section}{Torta Pasqualina Veloce}{81}{}%
+\contentsline {subsection}{Ingredienti}{81}{}%
+\contentsline {subsection}{Procedimento}{81}{}%
+\contentsline {subsection}{Note}{81}{}%
+\contentsline {section}{Torta Salata Ai Porri}{82}{}%
+\contentsline {subsection}{Ingredienti}{82}{}%
+\contentsline {subsection}{Procedimento}{82}{}%
+\contentsline {section}{Torta Salata Carla}{83}{}%
+\contentsline {subsection}{Ingredienti}{83}{}%
+\contentsline {subsection}{Procedimento}{83}{}%
+\contentsline {section}{Tortellini Veri Bolognesi}{84}{}%
+\contentsline {subsection}{Ingredienti}{84}{}%
+\contentsline {subsection}{Procedimento}{84}{}%
+\contentsline {section}{Tortelloni Con Patate E Taleggio}{85}{}%
+\contentsline {subsection}{Ingredienti}{85}{}%
+\contentsline {subsection}{Procedimento}{85}{}%
+\contentsline {section}{Tortino Di Zucchini}{86}{}%
+\contentsline {subsection}{Ingredienti}{86}{}%
+\contentsline {subsection}{Procedimento}{86}{}%
+\contentsline {section}{Uova Alla Svedese}{87}{}%
+\contentsline {subsection}{Ingredienti}{87}{}%
+\contentsline {subsection}{Procedimento}{87}{}%
+\contentsline {section}{Vellutata Di Pomodoro}{88}{}%
+\contentsline {subsection}{Ingredienti}{88}{}%
+\contentsline {subsection}{Procedimento}{88}{}%
+\contentsline {section}{Vellutata Di Zucca}{89}{}%
+\contentsline {subsection}{Ingredienti}{89}{}%
+\contentsline {subsection}{Procedimento}{89}{}%
+\contentsline {chapter}{\numberline {6}Torte Salate}{91}{}%
+\contentsline {section}{Orate Al Forno Con Porri Ed Olive}{91}{}%
+\contentsline {subsection}{Ingredienti}{91}{}%
+\contentsline {subsection}{Procedimento}{91}{}%
+\contentsline {section}{Orate Alla Mediterranea}{92}{}%
+\contentsline {subsection}{Ingredienti}{92}{}%
+\contentsline {subsection}{Procedimento}{92}{}%
+\contentsline {subsection}{Note}{92}{}%
+\contentsline {section}{Polpo Bollito}{93}{}%
+\contentsline {subsection}{Ingredienti}{93}{}%
+\contentsline {subsection}{Procedimento}{93}{}%
+\contentsline {subsection}{Note}{93}{}%
+\contentsline {section}{Tartare Di Tonno E Avocado}{94}{}%
+\contentsline {subsection}{Ingredienti}{94}{}%
+\contentsline {subsection}{Procedimento}{94}{}%
+\contentsline {chapter}{\numberline {7}Secondi Di Pesce}{95}{}%
+\contentsline {section}{Arrosto Agli Agrumi}{95}{}%
+\contentsline {subsection}{Ingredienti}{95}{}%
+\contentsline {subsection}{Procedimento}{95}{}%
+\contentsline {subsection}{Note}{96}{}%
+\contentsline {section}{Arrosto Al Forno}{97}{}%
+\contentsline {subsection}{Ingredienti}{97}{}%
+\contentsline {subsection}{Procedimento}{97}{}%
+\contentsline {subsection}{Note}{97}{}%
+\contentsline {section}{Arrosto Al Latte}{98}{}%
+\contentsline {subsection}{Ingredienti}{98}{}%
+\contentsline {subsection}{Procedimento}{98}{}%
+\contentsline {subsection}{Note}{98}{}%
+\contentsline {section}{Arrosto Al Limone}{99}{}%
+\contentsline {subsection}{Ingredienti}{99}{}%
+\contentsline {subsection}{Procedimento}{99}{}%
+\contentsline {section}{Arrosto Alla Ricotta}{100}{}%
+\contentsline {subsection}{Ingredienti}{100}{}%
+\contentsline {subsection}{Procedimento}{100}{}%
+\contentsline {subsection}{Note}{100}{}%
+\contentsline {section}{Bollito}{101}{}%
+\contentsline {subsection}{Ingredienti}{101}{}%
+\contentsline {subsection}{Procedimento}{101}{}%
+\contentsline {subsection}{Note}{101}{}%
+\contentsline {section}{Brasato Clementina}{102}{}%
+\contentsline {subsection}{Ingredienti}{102}{}%
+\contentsline {subsection}{Procedimento}{102}{}%
+\contentsline {subsection}{Note}{102}{}%
+\contentsline {section}{Filetto In Crosta}{103}{}%
+\contentsline {subsection}{Ingredienti}{103}{}%
+\contentsline {subsection}{Procedimento}{103}{}%
+\contentsline {section}{Gulash}{104}{}%
+\contentsline {subsection}{Ingredienti}{104}{}%
+\contentsline {subsection}{Procedimento}{104}{}%
+\contentsline {section}{Involtini Di Pollo Agli Aromi}{105}{}%
+\contentsline {subsection}{Ingredienti}{105}{}%
+\contentsline {subsection}{Procedimento}{105}{}%
+\contentsline {subsection}{Note}{105}{}%
+\contentsline {section}{Petto Di Tacchino }{106}{}%
+\contentsline {subsection}{Ingredienti}{106}{}%
+\contentsline {subsection}{Procedimento}{106}{}%
+\contentsline {section}{Pollo Al Curry Clementina}{107}{}%
+\contentsline {subsection}{Ingredienti}{107}{}%
+\contentsline {subsection}{Procedimento}{107}{}%
+\contentsline {subsection}{Note}{107}{}%
+\contentsline {section}{Pollo Con Capperi E Limone}{108}{}%
+\contentsline {subsection}{Ingredienti}{108}{}%
+\contentsline {subsection}{Procedimento}{108}{}%
+\contentsline {section}{Pollo Tonnato In Gelatina}{109}{}%
+\contentsline {subsection}{Ingredienti}{109}{}%
+\contentsline {subsection}{Procedimento}{109}{}%
+\contentsline {section}{Polpette E Polpettone}{110}{}%
+\contentsline {subsection}{Ingredienti}{110}{}%
+\contentsline {subsection}{Procedimento}{110}{}%
+\contentsline {subsection}{Note}{111}{}%
+\contentsline {section}{Polpettone Bianco}{112}{}%
+\contentsline {subsection}{Ingredienti}{112}{}%
+\contentsline {subsection}{Procedimento}{112}{}%
+\contentsline {section}{Roast Beef}{113}{}%
+\contentsline {subsection}{Ingredienti}{113}{}%
+\contentsline {subsection}{Procedimento}{113}{}%
+\contentsline {subsection}{Note}{113}{}%
+\contentsline {section}{Scaloppine}{114}{}%
+\contentsline {subsection}{Ingredienti}{114}{}%
+\contentsline {subsection}{Procedimento}{114}{}%
+\contentsline {subsection}{Note}{114}{}%
+\contentsline {section}{Spezzatino Con Carciofi E Patate}{115}{}%
+\contentsline {subsection}{Ingredienti}{115}{}%
+\contentsline {subsection}{Procedimento}{115}{}%
+\contentsline {section}{Straccetti Elena}{116}{}%
+\contentsline {subsection}{Ingredienti}{116}{}%
+\contentsline {subsection}{Procedimento}{116}{}%
+\contentsline {section}{Vitello Tonnato}{117}{}%
+\contentsline {subsection}{Ingredienti}{117}{}%
+\contentsline {subsection}{Procedimento}{117}{}%
+\contentsline {subsection}{Note}{117}{}%
+\contentsline {chapter}{\numberline {8}Secondi Di Carne}{119}{}%
+\contentsline {section}{Cavolfiore Alla Buonconvento}{119}{}%
+\contentsline {subsection}{Ingredienti}{119}{}%
+\contentsline {subsection}{Procedimento}{119}{}%
+\contentsline {section}{Crocchette Di Broccolo Al Lardo}{120}{}%
+\contentsline {subsection}{Ingredienti}{120}{}%
+\contentsline {subsection}{Procedimento}{120}{}%
+\contentsline {subsection}{Note}{120}{}%
+\contentsline {section}{Crocchette Di Patate}{121}{}%
+\contentsline {subsection}{Ingredienti}{121}{}%
+\contentsline {subsection}{Procedimento}{121}{}%
+\contentsline {section}{Finocchi Gratinati}{122}{}%
+\contentsline {subsection}{Ingredienti}{122}{}%
+\contentsline {subsection}{Procedimento}{122}{}%
+\contentsline {section}{Patate Al Forno}{123}{}%
+\contentsline {subsection}{Ingredienti}{123}{}%
+\contentsline {subsection}{Procedimento}{123}{}%
+\contentsline {section}{Pommes Soufflé Alla Parigina}{124}{}%
+\contentsline {subsection}{Ingredienti}{124}{}%
+\contentsline {subsection}{Procedimento}{124}{}%
+\contentsline {section}{Pomodori Gratinati}{125}{}%
+\contentsline {subsection}{Ingredienti}{125}{}%
+\contentsline {subsection}{Procedimento}{125}{}%
+\contentsline {chapter}{\numberline {9}Verdure}{127}{}%
+\contentsline {section}{Baci Di Dama}{127}{}%
+\contentsline {subsection}{Ingredienti}{127}{}%
+\contentsline {subsection}{Procedimento}{127}{}%
+\contentsline {section}{Bavarese Alla Fragola Clementina}{128}{}%
+\contentsline {subsection}{Ingredienti}{128}{}%
+\contentsline {subsection}{Procedimento}{128}{}%
+\contentsline {section}{Bigné}{129}{}%
+\contentsline {subsection}{Ingredienti}{129}{}%
+\contentsline {subsection}{Procedimento}{129}{}%
+\contentsline {section}{Biscotti Al Vino}{130}{}%
+\contentsline {subsection}{Ingredienti}{130}{}%
+\contentsline {subsection}{Procedimento}{130}{}%
+\contentsline {section}{Biscotti Leggeri Sorelle Simili}{131}{}%
+\contentsline {subsection}{Ingredienti}{131}{}%
+\contentsline {subsection}{Procedimento}{131}{}%
+\contentsline {section}{Briochine Allo Yogurt}{132}{}%
+\contentsline {subsection}{Ingredienti}{132}{}%
+\contentsline {subsection}{Procedimento}{132}{}%
+\contentsline {section}{Briochine Sorelle Simili}{133}{}%
+\contentsline {subsection}{Ingredienti}{133}{}%
+\contentsline {subsection}{Procedimento}{133}{}%
+\contentsline {section}{Buchteln}{134}{}%
+\contentsline {subsection}{Ingredienti}{134}{}%
+\contentsline {subsection}{Procedimento}{134}{}%
+\contentsline {section}{Budino Della Zia}{135}{}%
+\contentsline {subsection}{Ingredienti}{135}{}%
+\contentsline {subsection}{Procedimento}{135}{}%
+\contentsline {section}{Budino Di Cioccolata}{136}{}%
+\contentsline {subsection}{Ingredienti}{136}{}%
+\contentsline {subsection}{Procedimento}{136}{}%
+\contentsline {section}{Cantucci}{137}{}%
+\contentsline {subsection}{Ingredienti}{137}{}%
+\contentsline {subsection}{Procedimento}{137}{}%
+\contentsline {section}{Cavallucci}{138}{}%
+\contentsline {subsection}{Ingredienti}{138}{}%
+\contentsline {subsection}{Procedimento}{138}{}%
+\contentsline {subsection}{Note}{138}{}%
+\contentsline {section}{Charlotte Di Mele E Pane}{139}{}%
+\contentsline {subsection}{Ingredienti}{139}{}%
+\contentsline {subsection}{Procedimento}{139}{}%
+\contentsline {subsection}{Note}{139}{}%
+\contentsline {section}{Cheesecake}{140}{}%
+\contentsline {subsection}{Ingredienti}{140}{}%
+\contentsline {subsection}{Procedimento}{140}{}%
+\contentsline {subsection}{Note}{140}{}%
+\contentsline {section}{Ciaccia Toscana}{141}{}%
+\contentsline {subsection}{Ingredienti}{141}{}%
+\contentsline {subsection}{Procedimento}{141}{}%
+\contentsline {subsection}{Note}{141}{}%
+\contentsline {section}{Ciambella Contadina}{142}{}%
+\contentsline {subsection}{Ingredienti}{142}{}%
+\contentsline {subsection}{Procedimento}{142}{}%
+\contentsline {section}{Ciambellone Alla Crema}{143}{}%
+\contentsline {subsection}{Ingredienti}{143}{}%
+\contentsline {subsection}{Procedimento}{143}{}%
+\contentsline {section}{Clafoutis}{144}{}%
+\contentsline {subsection}{Ingredienti}{144}{}%
+\contentsline {subsection}{Procedimento}{144}{}%
+\contentsline {subsection}{Note}{144}{}%
+\contentsline {section}{Creme Caramel}{145}{}%
+\contentsline {subsection}{Ingredienti}{145}{}%
+\contentsline {subsection}{Procedimento}{145}{}%
+\contentsline {subsection}{Note}{145}{}%
+\contentsline {section}{Croccante Di Mandorle}{146}{}%
+\contentsline {subsection}{Ingredienti}{146}{}%
+\contentsline {subsection}{Procedimento}{146}{}%
+\contentsline {section}{Crostata Morbida}{147}{}%
+\contentsline {subsection}{Ingredienti}{147}{}%
+\contentsline {subsection}{Procedimento}{147}{}%
+\contentsline {subsection}{Note}{147}{}%
+\contentsline {section}{Crumble Di Mele Giovanna}{148}{}%
+\contentsline {subsection}{Ingredienti}{148}{}%
+\contentsline {subsection}{Procedimento}{148}{}%
+\contentsline {section}{Focaccia Alla Portoghese}{149}{}%
+\contentsline {subsection}{Ingredienti}{149}{}%
+\contentsline {subsection}{Procedimento}{149}{}%
+\contentsline {section}{Frittole Di Polenta}{150}{}%
+\contentsline {subsection}{Ingredienti}{150}{}%
+\contentsline {subsection}{Procedimento}{150}{}%
+\contentsline {subsection}{Note}{150}{}%
+\contentsline {section}{Galani}{151}{}%
+\contentsline {subsection}{Ingredienti}{151}{}%
+\contentsline {subsection}{Procedimento}{151}{}%
+\contentsline {subsection}{Note}{151}{}%
+\contentsline {section}{Gateau Di Renette}{152}{}%
+\contentsline {subsection}{Ingredienti}{152}{}%
+\contentsline {subsection}{Procedimento}{152}{}%
+\contentsline {section}{Gialletti}{153}{}%
+\contentsline {subsection}{Ingredienti}{153}{}%
+\contentsline {subsection}{Procedimento}{153}{}%
+\contentsline {section}{Krapfen 2}{154}{}%
+\contentsline {subsection}{Ingredienti}{154}{}%
+\contentsline {subsection}{Procedimento}{154}{}%
+\contentsline {section}{Krapfen}{155}{}%
+\contentsline {subsection}{Ingredienti}{155}{}%
+\contentsline {subsection}{Procedimento}{155}{}%
+\contentsline {section}{Meringhe}{156}{}%
+\contentsline {subsection}{Ingredienti}{156}{}%
+\contentsline {subsection}{Procedimento}{156}{}%
+\contentsline {subsection}{Note}{156}{}%
+\contentsline {section}{Mille Foglie}{157}{}%
+\contentsline {subsection}{Ingredienti}{157}{}%
+\contentsline {subsection}{Procedimento}{157}{}%
+\contentsline {section}{Monte Bianco}{158}{}%
+\contentsline {subsection}{Ingredienti}{158}{}%
+\contentsline {subsection}{Procedimento}{158}{}%
+\contentsline {subsection}{Note}{158}{}%
+\contentsline {section}{Mousse Au Chocolat}{159}{}%
+\contentsline {subsection}{Ingredienti}{159}{}%
+\contentsline {subsection}{Procedimento}{159}{}%
+\contentsline {section}{Muffin Al Cioccolato}{160}{}%
+\contentsline {subsection}{Ingredienti}{160}{}%
+\contentsline {subsection}{Procedimento}{160}{}%
+\contentsline {subsection}{Note}{160}{}%
+\contentsline {section}{Pan Di Spagna}{161}{}%
+\contentsline {subsection}{Ingredienti}{161}{}%
+\contentsline {subsection}{Procedimento}{161}{}%
+\contentsline {subsection}{Note}{161}{}%
+\contentsline {section}{Panna Cotta}{162}{}%
+\contentsline {subsection}{Ingredienti}{162}{}%
+\contentsline {subsection}{Procedimento}{162}{}%
+\contentsline {section}{Pasticcini Alle Mandorle Meyer}{163}{}%
+\contentsline {subsection}{Ingredienti}{163}{}%
+\contentsline {subsection}{Procedimento}{163}{}%
+\contentsline {subsection}{Note}{163}{}%
+\contentsline {section}{Pudding Di Savoiardi}{164}{}%
+\contentsline {subsection}{Ingredienti}{164}{}%
+\contentsline {subsection}{Procedimento}{164}{}%
+\contentsline {section}{Rose Del Deserto}{165}{}%
+\contentsline {subsection}{Ingredienti}{165}{}%
+\contentsline {subsection}{Procedimento}{165}{}%
+\contentsline {section}{Smeiassa }{166}{}%
+\contentsline {subsection}{Ingredienti}{166}{}%
+\contentsline {subsection}{Procedimento}{166}{}%
+\contentsline {subsection}{Note}{166}{}%
+\contentsline {section}{Smerdetta}{167}{}%
+\contentsline {subsection}{Ingredienti}{167}{}%
+\contentsline {subsection}{Procedimento}{167}{}%
+\contentsline {section}{Stracciatelle Unne}{168}{}%
+\contentsline {subsection}{Ingredienti}{168}{}%
+\contentsline {subsection}{Procedimento}{168}{}%
+\contentsline {subsection}{Note}{168}{}%
+\contentsline {section}{Strudel}{169}{}%
+\contentsline {subsection}{Ingredienti}{169}{}%
+\contentsline {subsection}{Procedimento}{169}{}%
+\contentsline {section}{Tarte Tatin 1}{170}{}%
+\contentsline {subsection}{Ingredienti}{170}{}%
+\contentsline {subsection}{Procedimento}{170}{}%
+\contentsline {subsection}{Note}{170}{}%
+\contentsline {section}{Tarte Tatin 2}{171}{}%
+\contentsline {subsection}{Ingredienti}{171}{}%
+\contentsline {subsection}{Procedimento}{171}{}%
+\contentsline {subsection}{Note}{171}{}%
+\contentsline {section}{Tiramisu}{172}{}%
+\contentsline {subsection}{Ingredienti}{172}{}%
+\contentsline {subsection}{Procedimento}{172}{}%
+\contentsline {section}{Torta Anna}{173}{}%
+\contentsline {subsection}{Ingredienti}{173}{}%
+\contentsline {subsection}{Procedimento}{173}{}%
+\contentsline {section}{Torta Delle Rose}{174}{}%
+\contentsline {subsection}{Ingredienti}{174}{}%
+\contentsline {subsection}{Procedimento}{174}{}%
+\contentsline {section}{Torta Di Albicocche}{175}{}%
+\contentsline {subsection}{Ingredienti}{175}{}%
+\contentsline {subsection}{Procedimento}{175}{}%
+\contentsline {section}{Torta Di Arance E Ricotta Federico}{176}{}%
+\contentsline {subsection}{Ingredienti}{176}{}%
+\contentsline {subsection}{Procedimento}{176}{}%
+\contentsline {section}{Torta Di Carote}{177}{}%
+\contentsline {subsection}{Ingredienti}{177}{}%
+\contentsline {subsection}{Procedimento}{177}{}%
+\contentsline {section}{Torta Di Linz}{178}{}%
+\contentsline {subsection}{Ingredienti}{178}{}%
+\contentsline {subsection}{Procedimento}{178}{}%
+\contentsline {section}{Torta Di Mele Anabela}{179}{}%
+\contentsline {subsection}{Ingredienti}{179}{}%
+\contentsline {subsection}{Procedimento}{179}{}%
+\contentsline {section}{Torta Di Mele Maloli}{180}{}%
+\contentsline {subsection}{Ingredienti}{180}{}%
+\contentsline {subsection}{Procedimento}{180}{}%
+\contentsline {subsection}{Note}{180}{}%
+\contentsline {section}{Torta Di Pere E Panna}{181}{}%
+\contentsline {subsection}{Ingredienti}{181}{}%
+\contentsline {subsection}{Procedimento}{181}{}%
+\contentsline {section}{Torta Di Semolino}{182}{}%
+\contentsline {subsection}{Ingredienti}{182}{}%
+\contentsline {subsection}{Procedimento}{182}{}%
+\contentsline {section}{Torta Di Taglierini Alla Modenese}{183}{}%
+\contentsline {subsection}{Ingredienti}{183}{}%
+\contentsline {subsection}{Procedimento}{183}{}%
+\contentsline {subsection}{Note}{183}{}%
+\contentsline {section}{Torta Duca Di Pistoia}{184}{}%
+\contentsline {subsection}{Ingredienti}{184}{}%
+\contentsline {subsection}{Procedimento}{184}{}%
+\contentsline {subsection}{Note}{184}{}%
+\contentsline {section}{Torta Gelato Alle Castagne}{185}{}%
+\contentsline {subsection}{Ingredienti}{185}{}%
+\contentsline {subsection}{Procedimento}{185}{}%
+\contentsline {subsection}{Note}{185}{}%
+\contentsline {section}{Torta Gelato Di Panna Con Uova}{186}{}%
+\contentsline {subsection}{Ingredienti}{186}{}%
+\contentsline {subsection}{Procedimento}{186}{}%
+\contentsline {subsection}{Note}{186}{}%
+\contentsline {section}{Torta Panarellina Anna}{187}{}%
+\contentsline {subsection}{Ingredienti}{187}{}%
+\contentsline {subsection}{Procedimento}{187}{}%
+\contentsline {subsection}{Note}{187}{}%
+\contentsline {section}{Torta Ricotta E Pere}{188}{}%
+\contentsline {subsection}{Ingredienti}{188}{}%
+\contentsline {subsection}{Procedimento}{188}{}%
+\contentsline {section}{Torta Rovesciata Di Prugne}{189}{}%
+\contentsline {subsection}{Ingredienti}{189}{}%
+\contentsline {subsection}{Procedimento}{189}{}%
+\contentsline {subsection}{Note}{189}{}%
+\contentsline {section}{Torta Sabbiosa Nonna Maria}{190}{}%
+\contentsline {subsection}{Ingredienti}{190}{}%
+\contentsline {subsection}{Procedimento}{190}{}%
+\contentsline {subsection}{Note}{190}{}%
+\contentsline {section}{Torta Sbriciolata Di Ricotta E Cioccolato}{191}{}%
+\contentsline {subsection}{Ingredienti}{191}{}%
+\contentsline {subsection}{Procedimento}{191}{}%
+\contentsline {section}{Torta Sole}{192}{}%
+\contentsline {subsection}{Ingredienti}{192}{}%
+\contentsline {subsection}{Procedimento}{192}{}%
+\contentsline {subsection}{Note}{192}{}%
+\contentsline {section}{Torta Trinidad}{193}{}%
+\contentsline {subsection}{Ingredienti}{193}{}%
+\contentsline {subsection}{Procedimento}{193}{}%
+\contentsline {subsection}{Note}{193}{}%
+\contentsline {section}{Torta Vegana Di Arance}{194}{}%
+\contentsline {subsection}{Ingredienti}{194}{}%
+\contentsline {subsection}{Procedimento}{194}{}%
+\contentsline {section}{Treccia Lievitata}{195}{}%
+\contentsline {subsection}{Ingredienti}{195}{}%
+\contentsline {subsection}{Procedimento}{195}{}%
+\contentsline {section}{Waffle}{196}{}%
+\contentsline {subsection}{Ingredienti}{196}{}%
+\contentsline {subsection}{Procedimento}{196}{}%
+\contentsline {chapter}{\numberline {10}Dolci}{197}{}%
+\contentsline {section}{Caramello}{197}{}%
+\contentsline {subsection}{Ingredienti}{197}{}%
+\contentsline {subsection}{Procedimento}{197}{}%
+\contentsline {section}{Coulis Frutta}{198}{}%
+\contentsline {subsection}{Ingredienti}{198}{}%
+\contentsline {subsection}{Procedimento}{198}{}%
+\contentsline {section}{Crema Catalana}{199}{}%
+\contentsline {subsection}{Ingredienti}{199}{}%
+\contentsline {subsection}{Procedimento}{199}{}%
+\contentsline {subsection}{Note}{199}{}%
+\contentsline {section}{Crema Pasticcera}{200}{}%
+\contentsline {subsection}{Ingredienti}{200}{}%
+\contentsline {subsection}{Procedimento}{200}{}%
+\contentsline {subsection}{Note}{200}{}%
+\contentsline {section}{Marmellata Di Prugne Tipo Modena}{201}{}%
+\contentsline {subsection}{Ingredienti}{201}{}%
+\contentsline {subsection}{Procedimento}{201}{}%
+\contentsline {section}{Marmellata Di Prugne}{202}{}%
+\contentsline {subsection}{Ingredienti}{202}{}%
+\contentsline {subsection}{Procedimento}{202}{}%
+\contentsline {subsection}{Note}{202}{}%
+\contentsline {section}{Salsa Al Cioccolato}{203}{}%
+\contentsline {subsection}{Ingredienti}{203}{}%
+\contentsline {subsection}{Procedimento}{203}{}%
+\contentsline {section}{Salsa Al Mascarpone}{204}{}%
+\contentsline {subsection}{Ingredienti}{204}{}%
+\contentsline {subsection}{Procedimento}{204}{}%
+\contentsline {subsection}{Note}{204}{}%
+\contentsline {section}{Scorze Di Arance Candite}{205}{}%
+\contentsline {subsection}{Ingredienti}{205}{}%
+\contentsline {subsection}{Procedimento}{205}{}%
+\contentsline {subsection}{Note}{205}{}%
+\contentsline {section}{Vov}{206}{}%
+\contentsline {subsection}{Ingredienti}{206}{}%
+\contentsline {subsection}{Procedimento}{206}{}%
+\contentsline {section}{Zabaione}{207}{}%
+\contentsline {subsection}{Ingredienti}{207}{}%
+\contentsline {subsection}{Procedimento}{207}{}%
+\contentsline {subsection}{Note}{207}{}%
+\contentsline {chapter}{\numberline {11}Creme Dolci}{209}{}%
